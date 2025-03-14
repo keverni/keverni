@@ -5,3 +5,7 @@
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,linux,py,visualstudio)](https://skillicons.dev)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Most popular languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keverni&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
